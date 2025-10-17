@@ -1,0 +1,5 @@
+[autorun]
+shellexecute=index.html
+icon=deductor.ico
+description=Deductor Disk
+label=Deductor
